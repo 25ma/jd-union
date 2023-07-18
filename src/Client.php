@@ -130,6 +130,9 @@ class Client
 		{
 			$requestUrl .= "$sysParamKey=" . urlencode($sysParamValue) . "&";
 		}
+
+		print_r("requestUrl: ". $requestUrl); 
+		echo "\r\n";
 		//����HTTP����
 		try
 		{

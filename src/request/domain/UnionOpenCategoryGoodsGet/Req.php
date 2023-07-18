@@ -1,5 +1,5 @@
 <?php
-namespace UnionOpenCategoryGoodsGet;
+namespace I25ma\JdUnion\request\domain\UnionOpenCategoryGoodsGet;
 class Req{
 
     private $params=array();

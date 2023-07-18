@@ -1,5 +1,6 @@
 <?php
 
+namespace I25ma\JdUnion\request;
 
 class AddressAllProvincesQueryRequest
 {
